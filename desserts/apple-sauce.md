@@ -6,9 +6,10 @@ Homemade apple sauce
 
 3/8 cup white sugar
 
-3/4 tsp ground cinnamon
+2 stick of cinnamon
 
-Combine all ingredients and simmer on med-high heat for 30 minutes or until apples soften. Let cool for a few minutes and then mash to the desired consistency.
+Combine all ingredients and simmer on med-high heat for 30 minutes or until apples soften. Take off the cinamon. Let cool for a few minutes and then mash to the desired consistency.
+
 
 ---
 TO DO:
