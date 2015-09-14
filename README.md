@@ -13,5 +13,3 @@ Fork this repository to start contributing. Create a pull request when you are r
 The collaborative nature of this GitHub repository will help create a better recipe book in a shorter timespan. 
 
 :shaved_ice: :fried_shrimp: :banana: :ice_cream: :cake: :fish_cake: :fries: :pizza: :pineapple:
-
-small change
