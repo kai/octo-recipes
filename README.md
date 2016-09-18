@@ -8,7 +8,7 @@ Anyone can contribute to this repository in the following ways:
 - Submit improvements to existing recipes
 - Comment on changes and additions proposed by other contributors
 
-Fork this repository to start contributing. Create a pull request when you are ready to propse your change and discuss it with others. 
+Fork this repository to start contributing. Create a pull request when you are ready to propose your change and discuss it with others. 
 
 The collaborative nature of this GitHub repository will help create a better recipe book in a shorter timespan. 
 
