@@ -1,0 +1,6 @@
+{
+  "name": "Octo-recipes",
+  "tagline": "A GitHub repository used to collaborate on recipes",
+  "body": "# Octo Recipe Book\r\n\r\nThe Octo Recipe Book :book: is a list of open source recipes formatted in [GitHub-flavoured Markdown](https://github.com/kaihj/octo-recipes/blob/master/markdown-cheatsheet.pdf).\r\n\r\nAnyone can contribute to this repository in the following ways:\r\n\r\n- Add your own recipe\r\n- Submit improvements to existing recipes\r\n- Comment on changes and additions proposed by other contributors\r\n\r\nFork this repository to start contributing. Create a pull request when you are ready to propse your change and discuss it with others. \r\n\r\nThe collaborative nature of this GitHub repository will help create a better recipe book in a shorter timespan. \r\n\r\n:shaved_ice: :fried_shrimp: :banana: :ice_cream: :cake: :fish_cake: :fries: :pizza: :pineapple:\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
