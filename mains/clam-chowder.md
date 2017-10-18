@@ -1,18 +1,18 @@
-Clam Chowder
+**Clam Chowder**
 
-Overview
+*Overview*
 
-Total Time: 1 hr 30 min
+ - Total Time: 1 hr 30 min
 
-Prep: 30 min
+ - Prep: 30 min
 
-Cook: 1 hr
+ - Cook: 1 hr
 
-Yield: 10 servings
+ - [ ] Yield: 10 servings
 
-Ingredients
+ - [ ] Ingredients
 
- 10 cups clam juice
+  - [ ] 10 cups clam juice
 
  2 pounds baking potatoes, like russets, peeled and diced
 
