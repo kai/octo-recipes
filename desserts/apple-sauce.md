@@ -1,6 +1,6 @@
 Homemade apple sauce
 
-6 Braeburn apples, cored, peeled, and cut into chunks
+7 Braeburn apples, cored, peeled, and cut into chunks
 
 1 1/8 cup water
 
