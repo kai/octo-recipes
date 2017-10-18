@@ -1,32 +1,34 @@
-Buffalo Chicken Sandwiches
+**Buffalo Chicken Sandwiches**
 
 Prep time - 10 minutes
 
 Cook time - 20 minutes
 
-Ingredients:
 
- 2 lb of chicken breasts
+**Ingredients:**
 
- some bread product to put the sandwich on (I used onion rolls)
+ -  2 lb of chicken breasts
 
- three cloves of garlic
+ - Some bread product to put the sandwich on (I used onion rolls) 
 
- about a cup of Frank's Hot Sauce
+ - 3 cloves of garlic
 
- 1/2 of a red onion
+ - About 1 cup of Frank's Hot Sauce
 
- 2-3 celery stalks
+ - 1/2 of a red onion
 
- 8 oz. of cream cheese
+ - 2-3 celery stalks
 
- blue cheese crumbles
+ - 8 oz. of cream cheese
 
- a little paprika and/or cumin
+ - Blue cheese crumbles
 
- salt
+ - A little paprika and/or cumin
 
- pepper
+ - Some salt
+
+ - Some pepper
+ 
 
 Directions:
 
@@ -50,31 +52,5 @@ Directions:
  toast the bread if you want, and spoon the chicken mixture over the bread
    and top with blue cheese crumbles
 
-   ---
-   TO DO:
+  
 
-   This document needs to be formatted nicely before being made available to the public.
-
-   Please also delete this TO DO section as part of the clean-up.
-
-   Here are some formatting tips that might help you:
-
-   Bulleted list:
-
-   - Item 1
-   - Item 2
-   - Item 3
-
-   Example link: [Markdown cheatsheet](https://github.com/kaihj/octo-recipes/blob/master/markdown-cheatsheet.pdf)
-
-   # Header 1
-
-   ## Header 2
-
-   ### Header 3
-
-   **bold**
-
-   > quoted text
-
-   `code block`
